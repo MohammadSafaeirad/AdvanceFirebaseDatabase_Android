@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "292655129242",
+    "firebase_url": "https://prjadvanceddatabasenov1-default-rtdb.firebaseio.com",
+    "project_id": "prjadvanceddatabasenov1",
+    "storage_bucket": "prjadvanceddatabasenov1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292655129242:android:daf53faad50b00a5a3b523",
+        "android_client_info": {
+          "package_name": "com.example.prjadvancedatabasenov1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqqG8Cmx5JG3hHyBZF_9E-UpckJjOlM-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
